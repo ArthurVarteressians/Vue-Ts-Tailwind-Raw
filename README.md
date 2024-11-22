@@ -4,7 +4,7 @@ This repository contains both the **Frontend** and **Backend** setup for a proje
 
 ---
 
-git clone --depth 0 <https://github.com/ArthurVarteressians/Vue-Ts-Tailwind-Raw.git>
+git clone --depth 1 <https://github.com/ArthurVarteressians/Vue-Ts-Tailwind-Raw.git>
 
 
 
