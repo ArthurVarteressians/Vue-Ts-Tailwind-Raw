@@ -10,6 +10,8 @@ This repository contains both the **Frontend** and **Backend** setup for a proje
      cd frontend
      npm install
 
+2. **Navigate to the Backend Folder**  
+
 ## Backend Setup
      cd backend
      npm install
