@@ -17,6 +17,7 @@ git branch -D master
 
 git branch -m development
 
+git remote remove origin
 
 ## Frontend Setup
 
