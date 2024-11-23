@@ -5,20 +5,23 @@ This repository contains both the **Frontend** and **Backend** setup for a proje
 ---
 
 git clone --depth 1 <https://github.com/ArthurVarteressians/Vue-Ts-Tailwind-Raw.git>
-
-git log --oneline 
+---
+git log --oneline
+---
 git branch
-
+---
 git checkout --orphan temp-branch
+---
 git add .
+---
 git commit -m "Initial commit with current files"
-
+---
 git branch -D master
-
+---
 git branch -m development
-
+---
 git remote remove origin
-
+---
 ## Frontend Setup
 
 1. **Navigate to the Frontend Folder**  
